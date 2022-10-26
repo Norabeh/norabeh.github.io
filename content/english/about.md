@@ -7,7 +7,7 @@ author = "Hugo Authors"
 +++ -->
 
 A professional writer, editor and communication specialist, with 5+ years of experience in
-marketing and 4+ years journalism experience. Passionate about creatingw ell-crafted
+marketing and 4+ years journalism experience. Passionate about creating well-crafted
 messages and campaigns.
 
 ## Experience
@@ -27,13 +27,7 @@ messages and campaigns.
 
     Managing the online directory, as well as preparing and editing a weekly
     newsletter, that reaches more than 200,000 subscribers.
-
-- ### Editor-in-Chief
-
-    Egypt Business Directory . Freelance Remote. 2016 - Present
-
-    Managing the online directory, as well as preparing and editing a weekly
-    newsletter, that reaches more than 200,000 subscribers.
+    
 
 - ### Communication Consultant
     TRIAL International . Geneva, Switzerland . March - June 2016
@@ -44,9 +38,8 @@ messages and campaigns.
 - ### Journalist/ Editor     
     The Daily News Egypt. Cairo, Egypt. 2011-2013
 
-    Writing in English for this private-owned publication for the political pages. Covering
-    press conferences and events during the Arab spring and until elections of 2013. Also
-    contributed to arts and culture, sports and business sections.
+    Writing in English for the privately-owned newspaper for the political, sports and arts and culture sections.
+    Covered highly-sensitive press conferences, interviews and protests during the Arab Spring and up until Egypt's presidential elections 2013.
 
 - ### Feature writer     
     The Egyptian Gazette. Cairo, Egypt. 2010-2011
@@ -66,7 +59,8 @@ messages and campaigns.
 - ## Erasmus Mundus Masters in Journalism and globalisation
     Focus: Humanitarian communication and journalism across cultures.
 
-    Aarhus University. Denmark 2014 Hamburg University. Germany 2015 
+    Aarhus University. 
+    Denmark 2014 Hamburg University. Germany 2015 
 
 - ## Bachelor of Mass Communication
     Major: Journalism
