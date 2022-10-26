@@ -1,0 +1,98 @@
+portfolioitems:
+  # portfolio category
+  - title: Work Samples
+    portfolioitem:
+      - name: Burden or Brothers? Media Representations of Refugees in the Middle East
+        image: '/images/portfolio/burden_or_brothers.jpg'
+        link: https://blogs.law.ox.ac.uk/research-subject-groups/centre-criminology/centreborder-criminologies/blog/2016/06/burden-or
+        linktext: 'Visit article'
+        description: 'Much of the research analyzing media representations of refugees since WWII has come from western countries and focuses on incoming asylum seekers and refugees.'
+        authors:
+          - Nouran El Behairy
+      - name: Cairo, a city of runners
+        image: '/images/portfolio/city_of_runners.jpg'
+        link: https://gohugo.io/
+        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
+        linktext: 'Visit article'
+        authors:
+          - Nouran El Behairy
+      - name: Armed forces commemorates Rafah’s border guards Armed forces commemorates Rafah’s border guards
+        image: '/images/portfolio/armed_forces.jpg'
+        link: https://dailynewsegypt.com/2013/08/06/armed-forces-commemorates-rafahs-border-guards/
+        description: 'The army honoured the families of 16 soldiers killed last year in Ramadan'
+        linktext: 'Visit article'
+        authors:
+          - Nouran El Behairy
+      - name: Government and Muslim Brotherhood Trade Blame After Car Bomb Death of Egypt's Public Prosecutor
+        image: '/images/portfolio/bomb.jpg'
+        link: https://globalvoices.org/2015/06/30/government-and-muslim-brotherhood-exchange-accusations-following-death-of-egypts-public-prosecutor-in-a-car-bomb/
+        linktext: 'Visit article'
+        description: 'The Egyptian government and the Muslim Brotherhood are exchanging accusations after the assassination of the countrys Public Prosecutor Hisham Barakat'
+        authors:
+          - Nouran El Behairy   
+      - name: Belgrade gets you! Why digital nomads are drawn to the Serbian capital
+        image: '/images/portfolio/belgrade.jpg'
+        link: https://andysto.com/belgrade-gets-you-why-digital-nomads-are-drawn-to-the-serbian-capital/
+        linktext: 'Visit article'
+        description: 'The Egyptian government and the Muslim Brotherhood are exchanging accusations after the assassination of the countrys Public Prosecutor Hisham Barakat'
+        authors:
+          - Nouran El Behairy     
+      - name: Morsi Ousted
+        image: '/images/portfolio/morsi.jpg'
+        link: https://dailynewsegypt.com/2013/07/04/morsi-ousted/
+        linktext: 'Visit article'
+        description: 'The armed forces have announced the removal of Mohamed Morsi just a year after he was elected president.'
+        authors:
+          - Nouran El Behairy     
+      - name: Meet the President
+        image: '/images/portfolio/president.jpg'
+        link: https://dailynewsegypt.com/2013/07/04/meet-the-president/
+        linktext: 'Visit article'
+        description: 'Adly Mansour took the oath of office as Egypt’s interim President on Thursday'
+        authors:
+          - Nouran El Behairy     
+      - name: Struggling to end violence against women Struggling to end violence against women
+        image: '/images/portfolio/violence.jpg'
+        link: https://dailynewsegypt.com/2012/11/25/struggling-to-end-violence-against-women/
+        linktext: 'Visit article'
+        description: 'Eighty-two per cent of women across Egypt have suffered from verbal and physical harassment in the streets and transportation'
+        authors:
+          - Nouran El Behairy   
+      - name: EU discusses Euro-Mediterranean relations after Arab Spring EU discusses Euro-Mediterranean relations after Arab Spring
+        image: '/images/portfolio/arab_spring.jpg'
+        link: https://dailynewsegypt.com/2013/06/07/eu-discusses-euro-mediterranean-relations-after-arab-spring/
+        linktext: 'Visit article'
+        description: 'Areal democratic dialogue and elections in accordance with international standards'
+        authors:
+          - Nouran El Behairy      
+      - name: "33-Year-Old, Single Males: These Are the Average Digital Nomads"
+        image: '/images/portfolio/male.jpg'
+        link: https://andysto.com/33-year-old-single-males-these-are-the-average-digital-nomads/
+        linktext: 'Visit article'
+        description: "It’s estimated that the number of digital nomads around the world at this moment is around 50 million people give or take. This is more than the population of Spain, or Argentina and around 5 times the population of Greece."
+        authors:
+          - Nouran El Behairy           
+
+  # portfolio category
+  #- title: Research
+  #  portfolioitem:
+  #    - name: Project 1
+  #      image: '/images/portfolio/code.jpg'
+  #      description: 'This project does not have a link attribute'
+  #      tags:
+  #        - Tag 1
+  #        - Tag 2
+  #    - name: Project 2
+  #      image: '/images/portfolio/code.jpg'
+  #      link: https://gohugo.io/
+  #      description: 'You can click on [**this link**](#codingprojects) to scroll to my Coding Projects portfolio'
+  #      tags:
+  #        - Tag 1
+  #        - Tag 2
+  #    - name: Project 3
+  #      image: '/images/portfolio/code.jpg'
+  #      link: https://gohugo.io/
+  #      description: 'A description'
+  #      tags:
+  #        - Tag 1
+  #        - Tag 2
