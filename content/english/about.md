@@ -59,14 +59,14 @@ messages and campaigns.
 - ## Erasmus Mundus Masters in Journalism and globalisation
     Focus: Humanitarian communication and journalism across cultures.
 
-    # Aarhus University. 
-    # Denmark 2014 Hamburg University. Germany 2015 
+    #### Aarhus University. 
+    #### Denmark 2014 Hamburg University. Germany 2015 
 
 - ## Bachelor of Mass Communication
     Major: Journalism
     Minor: Marketing and PR
 
-    # Cairo University 2013     
+    #### Cairo University 2013     
 
 
 <!-- 
