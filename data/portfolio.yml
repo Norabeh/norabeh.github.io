@@ -9,13 +9,13 @@ portfolioitems:
         description: 'Much of the research analyzing media representations of refugees since WWII has come from western countries and focuses on incoming asylum seekers and refugees.'
         authors:
           - Nouran El Behairy
-      - name: Cairo, a city of runners
-        image: '/images/portfolio/city_of_runners.jpg'
-        link: https://gohugo.io/
-        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
+      - name: Belgrade gets you! Why digital nomads are drawn to the Serbian capital
+        image: '/images/portfolio/belgrade.jpg'
+        link: https://andysto.com/belgrade-gets-you-why-digital-nomads-are-drawn-to-the-serbian-capital/
         linktext: 'Visit article'
+        description: 'The shifting world of work and how it is done is forcing governments around the globe, not only to adapt, but to introduce laws and make improvements to catch up with the new reality.'
         authors:
-          - Nouran El Behairy
+          - Nouran El Behairy   
       - name: Armed forces commemorates Rafah’s border guards Armed forces commemorates Rafah’s border guards
         image: '/images/portfolio/armed_forces.jpg'
         link: https://dailynewsegypt.com/2013/08/06/armed-forces-commemorates-rafahs-border-guards/
@@ -30,13 +30,6 @@ portfolioitems:
         description: 'The Egyptian government and the Muslim Brotherhood are exchanging accusations after the assassination of the countrys Public Prosecutor Hisham Barakat'
         authors:
           - Nouran El Behairy   
-      - name: Belgrade gets you! Why digital nomads are drawn to the Serbian capital
-        image: '/images/portfolio/belgrade.jpg'
-        link: https://andysto.com/belgrade-gets-you-why-digital-nomads-are-drawn-to-the-serbian-capital/
-        linktext: 'Visit article'
-        description: 'The Egyptian government and the Muslim Brotherhood are exchanging accusations after the assassination of the countrys Public Prosecutor Hisham Barakat'
-        authors:
-          - Nouran El Behairy     
       - name: Morsi Ousted
         image: '/images/portfolio/morsi.jpg'
         link: https://dailynewsegypt.com/2013/07/04/morsi-ousted/
