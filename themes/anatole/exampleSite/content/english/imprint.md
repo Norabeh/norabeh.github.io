@@ -2,7 +2,7 @@
 
 Information in accordance with the applicable law
 
-Jane Doe\
+Nouran El Behairy\
 Anatole Street 10\
 2016 GoHugo\
 Germany
