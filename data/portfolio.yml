@@ -51,7 +51,7 @@ portfolioitems:
         description: 'Adly Mansour took the oath of office as Egypt’s interim President on Thursday'
         authors:
           - Nouran El Behairy     
-      - name: Struggling to end violence against women Struggling to end violence against women
+      - name: Struggling to end violence against women
         image: '/images/portfolio/violence.jpg'
         link: https://dailynewsegypt.com/2012/11/25/struggling-to-end-violence-against-women/
         linktext: 'Visit article'
